@@ -22,3 +22,6 @@ I am Arhona
 
 ### Favourite Pet
 ![Puppy](https://live.staticflickr.com/4112/5170590074_714d36db83_b.jpg)
+
+### Example project image
+![Helmet Parts](bhadra+fig+6.png)
